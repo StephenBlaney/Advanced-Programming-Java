@@ -1,0 +1,4 @@
+Feb 27, 2016 2:23:41 PM Nested_try_catch_statement main
+SEVERE: An exception occurred in here
+Feb 27, 2016 2:23:49 PM Nested_try_catch_statement main
+SEVERE: An exception occurred in here
