@@ -1,0 +1,2 @@
+greeting=K
+computeButton=KK
